@@ -6,7 +6,7 @@ int main() {
 	printf("Masukkan Angka B= ");
 	scanf("%d", &b);
 	if(a>b){
-		printf("A lebih besar");
+		printf("A lebih besar dari B");
 	}
 	return(0);
 }
