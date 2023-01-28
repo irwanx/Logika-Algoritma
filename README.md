@@ -50,3 +50,4 @@
 |8|23 Desember 2022| Latihan 26|Menampilkan Reverse Angka 10-1|[here](https://github.com/irwanx/Logika-Algoritma/blob/master/Desember/23_des/latihan26.c)|
 |8|23 Desember 2022| Latihan 27|Menampikan Angka Kelipatan 7 sampai 70|[here](https://github.com/irwanx/Logika-Algoritma/blob/master/Desember/23_des/latihan27.c)|
 |8|23 Desember 2022| Latihan 28|Menampilkan Bilangan Ganjil lebih dari 21 sampai 40|[here](https://github.com/irwanx/Logika-Algoritma/blob/master/Desember/23_des/latihan28.c)|
+|UAS|27 Januari 2023|UAS|Program Kasir Toko|[here](https://github.com/irwanx/Logika-Algoritma/blob/master/Januari/27_jan/uas.c)|
