@@ -13,11 +13,12 @@
   <a href="https://github.com/irwanx/Logika-Algoritma/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/irwanx/Logika-Algoritma?label=watchers&color=blue&style=flat-square"></a> 
   </p>
   <p align="center"> 
-  <a href="https://github.com/irwanx/xyz-wabot"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Logika-Algoritma-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 
-    <br> 
+  <a href="https://github.com/irwanx/Logika-Algoritma"><img title="LA" src="https://img.shields.io/badge/Logika-Algoritma-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+  </br><a href="https://github.com/irwanx/Logika-Algoritma"><img title="LA" src="https://img.shields.io/badge/MADE WITH-C-orange?colorA=%23ff0000&colorB=silver&style=for-the-badge"></a> 
+    <br>
    Hanya Untuk Mengabadikan Semua Latihan :)<hr> 
-  </p> 
-  
+  </p>
+ 
 #### Semua Latihan
 |Tatap Muka Ke- | Tanggal | Judul | Keterangan | LINK |
 |--------|--------|--------|--------|--------|
